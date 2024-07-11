@@ -2,7 +2,7 @@
 
 ![logo](./image/logo.png)
 
-Chemical-Industry-LLM - 化工行业专业助手，为全球化工领域提供最全面、最深入的知识服务。
+Chemical-Industry-LLM - 化工行业专业助手，为化工领域提供最全面、最深入的知识服务。
 
 **介绍**
 
